@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello world!  👋
 
-<!--
-**ncls-brn/ncls-brn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html lang="en">
+  <head>
+  
+    **ncls-brn/ncls-brn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    After having worked for 10 years  in the  French Army, I am now retraining in web development, a sector in which I have discovered the wealth of       
+    professions (creativity, teamwork , problem solving, etc.) as well as the major impact on both companies and society in general. 
+    
+  </head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <body>
+
+    - 🔭 I’m currently working on Apprentice software development at ADA Tech School. 
+    - 🌱 I’m currently learning python,JavaScript, PHP, Git etc 
+    - 👯 I’m looking to collaborate on projects related to web development, cybersecurity and open source. 
+    - 🤔 I’m looking for help to find a work-study program from March 2023. 
+    - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge while putting my skills at the service of the collective for the          success of your projects.
+
+  </body>
+
+</html>
