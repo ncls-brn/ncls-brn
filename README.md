@@ -5,8 +5,10 @@
   
     **ncls-brn/ncls-brn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    After having worked for 10 years  in the  French Army, I am now retraining in web development, a sector in which I have discovered the wealth of       
-    professions (creativity, teamwork , problem solving, etc.) as well as the major impact on both companies and society in general. 
+    After having worked for 10 years  in the  French Army, I am now retraining in web development,
+    a sector in which I have discovered the wealth of       
+    professions (creativity, teamwork , problem solving, etc.) 
+    as well as the major impact on both companies and society in general. 
     
   </head>
 
