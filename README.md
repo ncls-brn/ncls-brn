@@ -21,7 +21,7 @@
     and open source. 
     - 🤔 I’m looking for help to find a work-study program from March 2023. 
     - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge
-    while putting my skills at the service of the collective for the          success of your projects.
+    while putting my skills at the service of the collective for the success of your projects.
 
   </body>
 
