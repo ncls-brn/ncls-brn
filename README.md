@@ -14,9 +14,11 @@
 
     - 🔭 I’m currently working on Apprentice software development at ADA Tech School. 
     - 🌱 I’m currently learning python,JavaScript, PHP, Git etc 
-    - 👯 I’m looking to collaborate on projects related to web development, cybersecurity and open source. 
+    - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
+    and open source. 
     - 🤔 I’m looking for help to find a work-study program from March 2023. 
-    - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge while putting my skills at the service of the collective for the          success of your projects.
+    - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge
+    while putting my skills at the service of the collective for the          success of your projects.
 
   </body>
 
