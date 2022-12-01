@@ -16,7 +16,7 @@
   <body>
 
     - 🔭 I’m currently working on Apprentice software development at ADA Tech School. 
-    - 🌱 I’m currently learning python,JavaScript, PHP, Git etc 
+    - 🌱 I’m currently learning python,JavaScript, Golang, Git etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
     - 🤔 I’m looking for an apprenticeship starting March 2023. 
