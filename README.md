@@ -16,12 +16,16 @@
   <body>
 
     - 🔭 I’m currently working on Apprentice software development at ADA Tech School. 
-    - 🌱 I’m currently learning python,JavaScript, Golang, Git etc 
+    - 🌱 I’m currently learning python,JavaScript, React, Vue, Golang, Git etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
-    - 🤔 I’m looking for an apprenticeship starting March 2023. 
+    - 🤔 I'm looking to develop my skills in the field of code and to share the experience and knowledge of this exciting world.
     - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge
     while putting my skills at the service of the collective for the success of your projects.
+    
+    - 💻 my personal portfolio: https://portfolio-ncls-brn.vercel.app/
+    
+     🚪 see you on the other side 🚪 
 
   </body>
 
