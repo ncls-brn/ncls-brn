@@ -25,6 +25,8 @@
     
     - 💻 my personal portfolio: https://portfolio-ncls-brn.vercel.app/
     
+    - 💻 codewars: https://www.codewars.com/users/ncls-brn
+    
      🚪 see you on the other side 🚪 
 
   </body>
