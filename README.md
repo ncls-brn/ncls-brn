@@ -15,7 +15,7 @@
 
   <body>
 
-    - 🔭 I’m currently working on Apprentice software development at ADA Tech School. 
+    - 🔭 I’m currently working on Apprentice at Withings. 
     - 🌱 I’m currently learning python,JavaScript, React, Vue, Golang, Git etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
