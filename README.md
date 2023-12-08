@@ -23,7 +23,7 @@
     - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge
     while putting my skills at the service of the collective for the success of your projects.
     
-    - 💻 My personal portfolio: [https://portfolio-ncls-brn.vercel.app/](https://portfolio-ncls-brn.vercel.app/)
+    - 💻 My personal portfolio: [personal portfolio](https://portfolio-ncls-brn.vercel.app/).
     
     - 💻 codewars: https://www.codewars.com/users/ncls-brn
     
