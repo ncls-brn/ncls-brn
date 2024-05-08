@@ -15,7 +15,7 @@
 
   <body>
 
-    - 🔭 I’m currently looking for an  apprenticeship starting in September 2024.. 
+    - 🔭 I’m currently looking for an  apprenticeship starting in September 2024. 
     - 🌱 I’m currently learning python,JavaScript, React, Vue, Golang, Git etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
