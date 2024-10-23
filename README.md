@@ -10,6 +10,8 @@
     a sector in which I have discovered the wealth of       
     professions (creativity, teamwork , problem solving, etc.) 
     as well as the major impact on both companies and society in general. 
+
+    Today, I specialize in the field of cybersecurity, both in terms of governance and technical aspects.
     
   </head>
 
