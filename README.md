@@ -18,7 +18,7 @@
   <body>
 
     - 🔭 I’m currently working for MM as a CISO assistant.
-    - 🌱 I’m currently learning python,JavaScript, React, Vue, Golang, Git, method EBIOS RM etc 
+    - 🌱 I’m currently learning C, python, JavaScript, React, Vue, Golang, Git, method EBIOS RM etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
     - 🤔 I'm looking to develop my skills in the field of code and to share the experience and knowledge of this exciting world.
