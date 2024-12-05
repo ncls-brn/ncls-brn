@@ -21,7 +21,7 @@
     - 🌱 I’m currently learning C, python, JavaScript, React, Vue, Golang, Git, method EBIOS RM etc 
     - 👯 I’m looking to collaborate on projects related to web development, cybersecurity
     and open source. 
-    - 🤔 I'm looking to develop my skills in the field of code and to share the experience and knowledge of this exciting world.
+    - 🤔 I'm looking to develop my skills in the field of code,cybersecurity and to share the experience and knowledge of this exciting world.
     - 📫 How to reach me: I seek to integrate a company to develop and deepen my knowledge
     while putting my skills at the service of the collective for the success of your projects.
     
@@ -29,7 +29,7 @@
     
     - 💻 codewars: https://www.codewars.com/users/ncls-brn
 
-    - 💻 Ozint, HTB, RootMe 
+    - 💻 HTB, RootMe 
     
     
      🚪 see you on the other side 🚪 
