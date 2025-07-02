@@ -29,7 +29,7 @@
     
     - 💻 codewars: https://www.codewars.com/users/ncls-brn
 
-    - 💻 HTB, RootMe 
+    - 💻 THM, RootMe 
     
     
      🚪 see you on the other side 🚪 
