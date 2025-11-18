@@ -12,6 +12,7 @@
     as well as the major impact on both companies and society in general. 
 
     Today, I specialize in the field of cybersecurity, both in terms of governance and technical aspects.
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nclsbrn.png" alt="Your Image Badge" />
     
   </head>
 
