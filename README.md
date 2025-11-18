@@ -12,7 +12,7 @@
     as well as the major impact on both companies and society in general. 
 
     Today, I specialize in the field of cybersecurity, both in terms of governance and technical aspects.
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nclsbrn.png" alt="Your Image Badge" />
+   
     
   </head>
 
@@ -27,6 +27,7 @@
     while putting my skills at the service of the collective for the success of your projects.
     
     - 💻 My personal portfolio: https://portfolio-ncls-brn.vercel.app/.
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nclsbrn.png" alt="Your Image Badge" />
     
     - 💻 codewars: https://www.codewars.com/users/ncls-brn
 
