@@ -27,9 +27,6 @@
     while putting my skills at the service of the collective for the success of your projects.
     
     - 💻 My personal portfolio: https://terminal-portfolio-ncls-brn.vercel.app/
-    
-    
-    - 💻 codewars: https://www.codewars.com/users/ncls-brn
 
     - 💻 THM, RootMe 
     
